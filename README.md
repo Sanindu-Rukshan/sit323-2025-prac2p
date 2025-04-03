@@ -1,4 +1,4 @@
-# SIT323/737 - Task 2.1P - Week 1
+# SIT323- Task 2.1P
 
 This project demonstrates a simple Node.js and Express web server that serves a static HTML page.
 
